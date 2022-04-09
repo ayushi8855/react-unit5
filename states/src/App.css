@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.nav{
+  display: flex;
+}
+.red{
+  color: red;
+}
+.green{
+  color:rgb(87, 233, 24)
+}
