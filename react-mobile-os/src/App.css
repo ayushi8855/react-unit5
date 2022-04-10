@@ -5,3 +5,12 @@
   color:blue;
   
 }
+.square{
+  list-style: square;
+}
+.circle{
+  list-style: disc;
+}
+.box{
+  list-style: circle;
+}
