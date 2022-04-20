@@ -1,0 +1,36 @@
+{
+  "students": [
+    {},
+    {
+      "id": "jvMKttzoKRH9jwOqcg7be",
+      "name": "",
+      "Address": "bahubali",
+      "department": "comme",
+      "salary": "",
+      "age": "25",
+      "martial_status": "",
+      "first_name": "Ayushi Jain",
+      "gender": "female",
+      " salary": "44"
+    },
+    {
+      "id": "7EPatdgReF0Zvl4MsHRck",
+      "name": "Ayushi",
+      "Address": "Jain",
+      "department": "comme",
+      "salary": "4444",
+      "age": "22",
+      "martial_status": "",
+      "gender": "female"
+    },
+    {
+      "id": "zNysymda6HafJ503qIrkS",
+      "name": "sonia",
+      "Address": "sharma colony",
+      "department": "deek",
+      "salary": "40000",
+      "age": "25",
+      "martial_status": "male"
+    }
+  ]
+}
