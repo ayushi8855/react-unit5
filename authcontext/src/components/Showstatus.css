@@ -1,0 +1,17 @@
+.login{
+    background:rgba(46, 36, 36, 0.844);
+    color:white;
+    width:96%;
+    margin:auto;
+    height:700px;
+    padding-top: 15px;
+}
+
+.logout{
+    background:rgb(175, 218, 218);
+    color:red;
+    width:96%;
+    margin:auto;
+    height:700px;
+    padding-top: 15px;
+}
