@@ -1,0 +1,190 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "employee_name": "Kial Bengtsen",
+      "employee_id": "3ec7a664-9948-4099-9829-a8c75deef782",
+      "title": "Team Lead",
+      "salary": 1000,
+      "image": "http://dummyimage.com/185x177.png/ff4444/ffffff",
+      "username": "kbengtsen0",
+      "password": "oJ79pX",
+      "tasks": [
+        "fixing bugs"
+      ],
+      "status": "working",
+      "team": "frontend"
+    },
+    {
+      "id": 2,
+      "employee_name": "Melessa Grayland",
+      "employee_id": "82eca1df-731e-4d8d-bae2-65cd56ec4f20",
+      "title": "Sr Software Developer",
+      "salary": 4000,
+      "image": "http://dummyimage.com/156x114.png/5fa2dd/ffffff",
+      "username": "mgrayland1",
+      "password": "u5eLhEF9Yb",
+      "tasks": [
+        "fixing bugs",
+        "working on service"
+      ],
+      "status": "terminated",
+      "team": "frontend"
+    },
+    {
+      "id": 3,
+      "employee_name": "Trish Cotillard",
+      "employee_id": "407f36db-e1d4-4581-bf50-38b9fd8142c3",
+      "title": "intern",
+      "salary": 4000,
+      "image": "http://dummyimage.com/139x104.png/ff4444/ffffff",
+      "username": "tcotillard2",
+      "password": "DulsHEd",
+      "tasks": [
+        "writting tests",
+        "fixing bugs"
+      ],
+      "status": "working",
+      "team": "backend"
+    },
+    {
+      "id": 4,
+      "employee_name": "Leora Walbridge",
+      "employee_id": "1687d968-e8f4-4ec9-b790-f74585cd54a8",
+      "title": "Intern",
+      "salary": 4000,
+      "image": "http://dummyimage.com/192x191.png/5fa2dd/ffffff",
+      "username": "lwalbridge3",
+      "password": "sfc50tNV",
+      "tasks": [
+        "working on service"
+      ],
+      "status": "terminated",
+      "team": "qa"
+    },
+    {
+      "id": 5,
+      "employee_name": "Haleigh Yard",
+      "employee_id": "abae3083-1585-447f-adaa-71db906ebea6",
+      "title": "Team Lead",
+      "salary": 5000,
+      "image": "http://dummyimage.com/145x145.png/5fa2dd/ffffff",
+      "username": "hyard4",
+      "password": "IYPq46",
+      "tasks": [
+        "fixing bugs",
+        "in meeting"
+      ],
+      "status": "working",
+      "team": "qa"
+    },
+    {
+      "id": 6,
+      "employee_name": "Raynard Maystone",
+      "employee_id": "a12fdc0a-3740-405d-b956-0ec29788a24a",
+      "title": "Jr Software Developer",
+      "salary": 4000,
+      "image": "http://dummyimage.com/190x158.png/cc0000/ffffff",
+      "username": "rmaystone5",
+      "password": "BczlbF7MNp",
+      "tasks": [
+        "in meeting",
+        "working on service"
+      ],
+      "status": "working",
+      "team": "frontend"
+    },
+    {
+      "id": 7,
+      "employee_name": "Annnora Mozzetti",
+      "employee_id": "f0d87bad-0c7e-4cbe-be04-8788700932b0",
+      "title": "Jr Software Developer",
+      "salary": 1000,
+      "image": "http://dummyimage.com/189x169.png/5fa2dd/ffffff",
+      "username": "amozzetti6",
+      "password": "BueLdMZZCS",
+      "tasks": [
+        "fixing bugs"
+      ],
+      "status": "working",
+      "team": "frontend"
+    },
+    {
+      "id": 8,
+      "employee_name": "Frank Skirlin",
+      "employee_id": "ab8cdd2b-1eba-41bc-a917-89b77e919343",
+      "title": "Team Lead",
+      "salary": 1000,
+      "image": "http://dummyimage.com/119x137.png/dddddd/000000",
+      "username": "fskirlin7",
+      "password": "9mADwgBqwxSt",
+      "tasks": [
+        "writting tests"
+      ],
+      "status": "terminated",
+      "team": "backend"
+    },
+    {
+      "id": 9,
+      "employee_name": "Jerrilee Albiston",
+      "employee_id": "ad796d73-3956-478a-9be9-2deb1c9962ec",
+      "title": "Sr Software Developer",
+      "salary": 1000,
+      "image": "http://dummyimage.com/167x137.png/ff4444/ffffff",
+      "username": "jalbiston8",
+      "password": "jjcEdQNHWel",
+      "tasks": [
+        "in meeting",
+        "working on service"
+      ],
+      "status": "terminated",
+      "team": "backend"
+    },
+    {
+      "id": 10,
+      "employee_name": "Kip Grewer",
+      "employee_id": "24a6d88c-4f18-4b49-bcb6-1512e5e14c9a",
+      "title": "Team Lead",
+      "salary": 5000,
+      "image": "http://dummyimage.com/111x132.png/ff4444/ffffff",
+      "username": "kgrewer9",
+      "password": "XJzagBl8o7O",
+      "tasks": [
+        "in meeting"
+      ],
+      "status": "working",
+      "team": "backend"
+    },
+    {
+      "id": 11,
+      "employee_name": "Kip Grewer",
+      "employee_id": "24a6d88c-4f18-4b49-bcb6-1512e5e14c9a",
+      "title": "Team Lead",
+      "salary": 5000,
+      "image": "http://dummyimage.com/111x132.png/ff4444/ffffff",
+      "username": "kgrewer9",
+      "password": "XJzagBl8o7O",
+      "tasks": [
+        "in meeting"
+      ],
+      "status": "working",
+      "team": "backend"
+    },
+    {
+      "id": 12,
+      "employee_name": "Kip Grewer",
+      "employee_id": "24a6d88c-4f18-4b49-bcb6-1512e5e14c9a",
+      "title": "Team Lead",
+      "salary": 5000,
+      "image": "http://dummyimage.com/111x132.png/ff4444/ffffff",
+      "username": "kgrewer9",
+      "password": "XJzagBl8o7O",
+      "tasks": [
+        "in meeting"
+      ],
+      "status": "working",
+      "team": "backend"
+    }
+    
+  ]
+}
