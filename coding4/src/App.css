@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  
+}
+
+.nav-home{
+  margin-right: 50px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.nav-logout{
+  margin-right: 50px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.nav-login{
+  font-weight: bold;
+  font-size: 25px;
+}
